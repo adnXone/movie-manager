@@ -36,8 +36,9 @@ movie-manager/
 
 ### Via ClawHub (Recommended)
 ```bash
-clawhub install movie-manager
+clawhub install adnxone/movie-manager
 ```
+Official link: [https://clawhub.ai/adnxone/movie-manager](https://clawhub.ai/adnxone/movie-manager)
 
 ### Via GitHub
 ```bash
