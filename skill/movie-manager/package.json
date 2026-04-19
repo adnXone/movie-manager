@@ -1,0 +1,27 @@
+{
+  "name": "movie-manager",
+  "version": "1.0.0",
+  "description": "Organizează recomandările de filme în Obsidian și generează sugestii bazate pe profilul utilizatorului.",
+  "type": "skill",
+  "homepage": "https://github.com/adnXone/movie-manager",
+  "author": "adnXone",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adnXone/movie-manager"
+  },
+  "keywords": [
+    "obsidian",
+    "movie",
+    "recommendation",
+    "openclaw",
+    "skill"
+  ],
+  "metadata": {
+    "openclaw": {
+      "emoji": "🎬",
+      "tags": ["divertisment", "organizare", "asistent-personal", "obsidian"],
+      "language": "ro"
+    }
+  }
+}
